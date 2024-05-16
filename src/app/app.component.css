@@ -1,0 +1,29 @@
+.container1{
+     padding: 10px 10px;
+     background-color: lightgrey;
+     color: black;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.container2{
+    padding: 10px 10px;
+    background-color: lightskyblue;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.one{
+    color: red;
+    text-align:center;
+}
+.two{
+    font-size: 30px;
+}
+.three{
+    font-weight: bold;
+}
+.four{
+    font-style: italic;
+}
+.five{
+    color: yellowgreen;
+}
